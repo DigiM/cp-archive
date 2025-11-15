@@ -1,3 +1,11 @@
 in
 out
 a.out
+
+.DS_Store
+
+# meta hacker cup
+meta-hacker-cup/*/*_input.txt
+meta-hacker-cup/*/*_output.txt
+meta-hacker-cup/*/*_input.zip
+meta-hacker-cup/*/*_output.zip

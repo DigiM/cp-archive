@@ -3,6 +3,7 @@ out
 a.out
 
 .DS_Store
+.vscode/
 
 # meta hacker cup
 meta-hacker-cup/*/*_input.txt
